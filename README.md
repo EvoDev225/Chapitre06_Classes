@@ -23,4 +23,4 @@ Vous avez gagné ! Le nombre aléatoire est bien : 63
 ```
 
 ## Auteur
-Kambou Sié Oziel — Abidjan, Côte d'Ivoire
+Kambou Sié Oziel — RGL3B
